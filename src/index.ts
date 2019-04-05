@@ -1,5 +1,3 @@
-import * as _ from "lodash";
-
 export type NetworkId = "cc" | "tc" | "sc" | "wc";
 export interface AccountDoc {
     address: string;
